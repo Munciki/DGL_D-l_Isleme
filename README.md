@@ -27,3 +27,14 @@ Toplam 2 döküman içeriyor, 10mgb Veri iceriyor, Html ve Txt Formatında
 # içeriğini detaylıca açıklayınız. Temizleme sürecinin anlaşılması açısından
 # önemlidir.
 ![resim](https://github.com/user-attachments/assets/4bcf3da3-269c-43bd-b7bd-dd65e5df6a61)
+
+
+
+# Vektör çıktılarından örnekler PDF raporda paylaşılmalıdır. Her model için,
+# örneğin belirli bir önemli kelime seçilerek (verdiğim örnek kodda olduğu gibi), bu
+# kelimenin vektör uzayındaki en yakın anlamlı (benzer) 5 kelimesi raporda
+# sunulabilir. Ayrıca, elde edilen modellerin temel özellikleri bu örnekler üzerinden
+# kısaca açıklanmalıdır. Hangi modelin daha başarılı olmasını bekliyorsunuz
+# neden?
+Stem modellerimin daha başarılı olması gerke cünkü cok az dosya var, en hızlı sekilde yapabilir.
+
