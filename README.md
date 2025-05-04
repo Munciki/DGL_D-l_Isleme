@@ -26,7 +26,8 @@ Toplam 2 döküman içeriyor, 10mgb Veri iceriyor, Html ve Txt Formatında
 # Örnek: Ham veriden kısa bir örnek parça paylaşınız. Bu örnek üzerinden veri
 # içeriğini detaylıca açıklayınız. Temizleme sürecinin anlaşılması açısından
 # önemlidir.
-![resim](https://github.com/user-attachments/assets/4bcf3da3-269c-43bd-b7bd-dd65e5df6a61)
+![image](https://github.com/user-attachments/assets/2dd711d2-3b67-4c91-a5ea-f2c1d51b40c1)
+
 
 
 
